@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1508519778 source:c:\users\lyndon bowen\documents\c++ class\queenstour\main.cpp
+	<iostream>
+	<vector>
+	"ChessPuzzle.h"
+	<time.h>
+	<stdlib.h>
+
+1508519801 c:\users\lyndon bowen\documents\c++ class\queenstour\chesspuzzle.h
+	<iostream>
+	<vector>
+

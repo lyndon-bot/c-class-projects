@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1504292034 source:c:\users\lyndon bowen\documents\c++ class\ktour\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"header.h"
+
+1504289453 c:\users\lyndon bowen\documents\c++ class\ktour\header.h
+

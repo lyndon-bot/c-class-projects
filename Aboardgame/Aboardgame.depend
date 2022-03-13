@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1505495338 source:c:\users\lyndon bowen\documents\c++ class\aboardgame\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"header.h"
+
+1505339450 c:\users\lyndon bowen\documents\c++ class\aboardgame\header.h
+	<string>
+

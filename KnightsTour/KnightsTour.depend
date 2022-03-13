@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1504190191 source:c:\users\lyndon bowen\documents\c++ class\knightstour\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1504190052 c:\users\lyndon bowen\documents\c++ class\knightstour\header.h
+
+1504227363 source:c:\users\lyndon bowen\desktop\knightstour\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1504227026 c:\users\lyndon bowen\desktop\knightstour\header.h
+

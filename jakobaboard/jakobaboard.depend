@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1505498954 source:c:\users\lyndon bowen\documents\c++ class\jakobaboard\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"header.h"
+
+1505498243 c:\users\lyndon bowen\documents\c++ class\jakobaboard\header.h
+	<string>
+

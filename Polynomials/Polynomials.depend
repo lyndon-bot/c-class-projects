@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1507820323 source:c:\users\lyndon bowen\documents\c++ class\polynomials\main.cpp
+	<iostream>
+	"header.h"
+	<cmath>
+
+1507749258 c:\users\lyndon bowen\documents\c++ class\polynomials\header.h
+	<iostream>
+

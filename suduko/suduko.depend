@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1510282977 source:c:\users\lyndon bowen\documents\c++ class\suduko\main.cpp
+	<iostream>
+	"spot.h"
+	"Sudoku.h"
+	<algorithm>
+
+1510281569 c:\users\lyndon bowen\documents\c++ class\suduko\spot.h
+	<vector>
+
+1510282784 c:\users\lyndon bowen\documents\c++ class\suduko\sudoku.h
+	"spot.h"
+	<string>
+	<fstream>
+	<iostream>
+
